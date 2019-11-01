@@ -64,3 +64,10 @@ or
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### .gitignore
+
+Create a file and name t ".gitignore" 
+for specific file to be ignored, enter file name with extension 
+for specific folder to be ignored, enter folder name 
+for pattern, enter *.txt  - this will ignore all the txt files
