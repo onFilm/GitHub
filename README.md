@@ -67,7 +67,10 @@ or
 
 ### .gitignore
 
-Create a file and name t ".gitignore" 
+Create a file and name t "**.gitignore**" 
+
 for specific file to be ignored, enter file name with extension 
+
 for specific folder to be ignored, enter folder name 
-for pattern, enter *.txt  - this will ignore all the txt files
+
+for pattern, enter ***.txt**  - this will ignore all the txt files
