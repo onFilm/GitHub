@@ -12,6 +12,7 @@
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 or
 | `git clone https://github.com/onFilm/GitHub.git` | Create a local copy of a remote repository |
+| `git remote add origin https://github.com/user/repo.git`| Set a new remote |
 
 ### Basic Snapshotting
 
