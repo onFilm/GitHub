@@ -8,7 +8,8 @@
 `git commit -m "[commit message]"`  Commit changes <br />
 `git push origin master` push the staged,commited code to master branch.<br />
 
-…or create a new repository on the command line<br />
+### Create from local
+To create a new repository on the command line<br />
 `echo "# Title" >> README.md`<br />
 `git init`<br />
 `git add README.md`<br />
